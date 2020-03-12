@@ -1,27 +1,28 @@
 export default function Index() {
     return (
         <div>
-            <h1>David</h1>
-            <p>Hello Next.js</p>
-            <img src="static/mercedes.jpg" alt="carro" />
+            <header>Podcast</header>
             <style jsx>{`
-                h1 {
-                    color: brown;
+                header {
+                    color: white;
+                     background: linear-gradient(
+                            0deg,
+                            rgba(2, 0, 36, 1) 0%,
+                            rgba(9, 40, 121, 1) 0%,
+                            rgba(0, 212, 255, 1) 100%
+                        );
+                    padding: 14px;
+                    text-align: center;
                 }
-                div:global(p) {
-                    color: salmon;
-                }
-                img {
-                    max-width: 40%;
-                    display: block;
-                    margin: 0 auto;
-                }
+              
+                );
             `}</style>
 
             <style jsx global>
                 {`
                     body {
-                        background: yellow;
+                        margin: 0;
+                        font-family: system-ui;
                     }
                 `}
             </style>

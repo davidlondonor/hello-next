@@ -942,47 +942,31 @@ var _jsxFileName = "/Users/davidlondono/Documents/hello-next/pages/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 function Index() {
   return __jsx("div", {
-    className: "jsx-1951774445",
+    className: "jsx-485829017",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3
     },
     __self: this
-  }, __jsx("h1", {
-    className: "jsx-1951774445",
+  }, __jsx("header", {
+    className: "jsx-485829017",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 4
     },
     __self: this
-  }, "David"), __jsx("p", {
-    className: "jsx-1951774445",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 5
-    },
+  }, "Podcast"), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+    id: "3470784209",
     __self: this
-  }, "Hello Next.js"), __jsx("img", {
-    src: "static/mercedes.jpg",
-    alt: "carro",
-    className: "jsx-1951774445",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6
-    },
+  }, ".jsx-485829017{);;}header.jsx-485829017{color:white;background:linear-gradient( 0deg, rgba(2,0,36,1) 0%, rgba(9,40,121,1) 0%, rgba(0,212,255,1) 100% );padding:14px;text-align:center;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9kYXZpZGxvbmRvbm8vRG9jdW1lbnRzL2hlbGxvLW5leHQvcGFnZXMvaW5kZXguanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBSXdCLEFBR2lDLEFBWXBCLEdBQUMsU0FOWSxtR0FDUSxhQUNLLGtCQUN0QiIsImZpbGUiOiIvVXNlcnMvZGF2aWRsb25kb25vL0RvY3VtZW50cy9oZWxsby1uZXh0L3BhZ2VzL2luZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gSW5kZXgoKSB7XG4gICAgcmV0dXJuIChcbiAgICAgICAgPGRpdj5cbiAgICAgICAgICAgIDxoZWFkZXI+UG9kY2FzdDwvaGVhZGVyPlxuICAgICAgICAgICAgPHN0eWxlIGpzeD57YFxuICAgICAgICAgICAgICAgIGhlYWRlciB7XG4gICAgICAgICAgICAgICAgICAgIGNvbG9yOiB3aGl0ZTtcbiAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6IGxpbmVhci1ncmFkaWVudChcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAwZGVnLFxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJnYmEoMiwgMCwgMzYsIDEpIDAlLFxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJnYmEoOSwgNDAsIDEyMSwgMSkgMCUsXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgcmdiYSgwLCAyMTIsIDI1NSwgMSkgMTAwJVxuICAgICAgICAgICAgICAgICAgICAgICAgKTtcbiAgICAgICAgICAgICAgICAgICAgcGFkZGluZzogMTRweDtcbiAgICAgICAgICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICAgICAgICAgIH1cbiAgICAgICAgICAgICAgXG4gICAgICAgICAgICAgICAgKTtcbiAgICAgICAgICAgIGB9PC9zdHlsZT5cblxuICAgICAgICAgICAgPHN0eWxlIGpzeCBnbG9iYWw+XG4gICAgICAgICAgICAgICAge2BcbiAgICAgICAgICAgICAgICAgICAgYm9keSB7XG4gICAgICAgICAgICAgICAgICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgICAgICAgICAgICAgICAgICBmb250LWZhbWlseTogc3lzdGVtLXVpO1xuICAgICAgICAgICAgICAgICAgICB9XG4gICAgICAgICAgICAgICAgYH1cbiAgICAgICAgICAgIDwvc3R5bGU+XG4gICAgICAgIDwvZGl2PlxuICAgICk7XG59XG4iXX0= */\n/*@ sourceURL=/Users/davidlondono/Documents/hello-next/pages/index.js */"), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+    id: "549810369",
     __self: this
-  }), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    id: "3797870731",
-    __self: this
-  }, "h1.jsx-1951774445{color:brown;}div.jsx-1951774445:global(p){color:salmon;}img.jsx-1951774445{max-width:40%;display:block;margin:0 auto;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9kYXZpZGxvbmRvbm8vRG9jdW1lbnRzL2hlbGxvLW5leHQvcGFnZXMvaW5kZXguanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBTXdCLEFBR2lDLEFBR0MsQUFHQyxZQUxsQixDQUdBLENBR2tCLGNBQ0EsY0FDbEIiLCJmaWxlIjoiL1VzZXJzL2RhdmlkbG9uZG9uby9Eb2N1bWVudHMvaGVsbG8tbmV4dC9wYWdlcy9pbmRleC5qcyIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEluZGV4KCkge1xuICAgIHJldHVybiAoXG4gICAgICAgIDxkaXY+XG4gICAgICAgICAgICA8aDE+RGF2aWQ8L2gxPlxuICAgICAgICAgICAgPHA+SGVsbG8gTmV4dC5qczwvcD5cbiAgICAgICAgICAgIDxpbWcgc3JjPVwic3RhdGljL21lcmNlZGVzLmpwZ1wiIGFsdD1cImNhcnJvXCIgLz5cbiAgICAgICAgICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgICAgICAgICAgICBoMSB7XG4gICAgICAgICAgICAgICAgICAgIGNvbG9yOiBicm93bjtcbiAgICAgICAgICAgICAgICB9XG4gICAgICAgICAgICAgICAgZGl2Omdsb2JhbChwKSB7XG4gICAgICAgICAgICAgICAgICAgIGNvbG9yOiBzYWxtb247XG4gICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgIGltZyB7XG4gICAgICAgICAgICAgICAgICAgIG1heC13aWR0aDogNDAlO1xuICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBibG9jaztcbiAgICAgICAgICAgICAgICAgICAgbWFyZ2luOiAwIGF1dG87XG4gICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgYH08L3N0eWxlPlxuXG4gICAgICAgICAgICA8c3R5bGUganN4IGdsb2JhbD5cbiAgICAgICAgICAgICAgICB7YFxuICAgICAgICAgICAgICAgICAgICBib2R5IHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6IHllbGxvdztcbiAgICAgICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgIGB9XG4gICAgICAgICAgICA8L3N0eWxlPlxuICAgICAgICA8L2Rpdj5cbiAgICApO1xufVxuIl19 */\n/*@ sourceURL=/Users/davidlondono/Documents/hello-next/pages/index.js */"), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    id: "3582901743",
-    __self: this
-  }, "body{background:yellow;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9kYXZpZGxvbmRvbm8vRG9jdW1lbnRzL2hlbGxvLW5leHQvcGFnZXMvaW5kZXguanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBcUJpQixBQUcyQyxrQkFDdEIiLCJmaWxlIjoiL1VzZXJzL2RhdmlkbG9uZG9uby9Eb2N1bWVudHMvaGVsbG8tbmV4dC9wYWdlcy9pbmRleC5qcyIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEluZGV4KCkge1xuICAgIHJldHVybiAoXG4gICAgICAgIDxkaXY+XG4gICAgICAgICAgICA8aDE+RGF2aWQ8L2gxPlxuICAgICAgICAgICAgPHA+SGVsbG8gTmV4dC5qczwvcD5cbiAgICAgICAgICAgIDxpbWcgc3JjPVwic3RhdGljL21lcmNlZGVzLmpwZ1wiIGFsdD1cImNhcnJvXCIgLz5cbiAgICAgICAgICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgICAgICAgICAgICBoMSB7XG4gICAgICAgICAgICAgICAgICAgIGNvbG9yOiBicm93bjtcbiAgICAgICAgICAgICAgICB9XG4gICAgICAgICAgICAgICAgZGl2Omdsb2JhbChwKSB7XG4gICAgICAgICAgICAgICAgICAgIGNvbG9yOiBzYWxtb247XG4gICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgIGltZyB7XG4gICAgICAgICAgICAgICAgICAgIG1heC13aWR0aDogNDAlO1xuICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBibG9jaztcbiAgICAgICAgICAgICAgICAgICAgbWFyZ2luOiAwIGF1dG87XG4gICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgYH08L3N0eWxlPlxuXG4gICAgICAgICAgICA8c3R5bGUganN4IGdsb2JhbD5cbiAgICAgICAgICAgICAgICB7YFxuICAgICAgICAgICAgICAgICAgICBib2R5IHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6IHllbGxvdztcbiAgICAgICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgIGB9XG4gICAgICAgICAgICA8L3N0eWxlPlxuICAgICAgICA8L2Rpdj5cbiAgICApO1xufVxuIl19 */\n/*@ sourceURL=/Users/davidlondono/Documents/hello-next/pages/index.js */"));
+  }, "body{margin:0;font-family:system-ui;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9kYXZpZGxvbmRvbm8vRG9jdW1lbnRzL2hlbGxvLW5leHQvcGFnZXMvaW5kZXguanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBcUJpQixBQUdrQyxTQUNhLHNCQUMxQiIsImZpbGUiOiIvVXNlcnMvZGF2aWRsb25kb25vL0RvY3VtZW50cy9oZWxsby1uZXh0L3BhZ2VzL2luZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gSW5kZXgoKSB7XG4gICAgcmV0dXJuIChcbiAgICAgICAgPGRpdj5cbiAgICAgICAgICAgIDxoZWFkZXI+UG9kY2FzdDwvaGVhZGVyPlxuICAgICAgICAgICAgPHN0eWxlIGpzeD57YFxuICAgICAgICAgICAgICAgIGhlYWRlciB7XG4gICAgICAgICAgICAgICAgICAgIGNvbG9yOiB3aGl0ZTtcbiAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6IGxpbmVhci1ncmFkaWVudChcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAwZGVnLFxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJnYmEoMiwgMCwgMzYsIDEpIDAlLFxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJnYmEoOSwgNDAsIDEyMSwgMSkgMCUsXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgcmdiYSgwLCAyMTIsIDI1NSwgMSkgMTAwJVxuICAgICAgICAgICAgICAgICAgICAgICAgKTtcbiAgICAgICAgICAgICAgICAgICAgcGFkZGluZzogMTRweDtcbiAgICAgICAgICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICAgICAgICAgIH1cbiAgICAgICAgICAgICAgXG4gICAgICAgICAgICAgICAgKTtcbiAgICAgICAgICAgIGB9PC9zdHlsZT5cblxuICAgICAgICAgICAgPHN0eWxlIGpzeCBnbG9iYWw+XG4gICAgICAgICAgICAgICAge2BcbiAgICAgICAgICAgICAgICAgICAgYm9keSB7XG4gICAgICAgICAgICAgICAgICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgICAgICAgICAgICAgICAgICBmb250LWZhbWlseTogc3lzdGVtLXVpO1xuICAgICAgICAgICAgICAgICAgICB9XG4gICAgICAgICAgICAgICAgYH1cbiAgICAgICAgICAgIDwvc3R5bGU+XG4gICAgICAgIDwvZGl2PlxuICAgICk7XG59XG4iXX0= */\n/*@ sourceURL=/Users/davidlondono/Documents/hello-next/pages/index.js */"));
 }
 
 /***/ }),
 
-/***/ 1:
+/***/ 2:
 /*!************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fdavidlondono%2FDocuments%2Fhello-next%2Fpages%2Findex.js ***!
   \************************************************************************************************************************************/
@@ -1005,5 +989,5 @@ module.exports = dll_82519ec661270f7f484f;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
